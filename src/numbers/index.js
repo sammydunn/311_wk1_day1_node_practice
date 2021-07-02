@@ -28,7 +28,7 @@ for(i = 0; i < arr.length; i++) {
     }
   }
 } return false;
-}
+};
 
 module.exports = {
   isEven,

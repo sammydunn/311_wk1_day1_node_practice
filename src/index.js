@@ -6,4 +6,4 @@ module.exports = {
   numbers,
   strings,
   dates
-}
+};
